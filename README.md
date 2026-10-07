@@ -4,8 +4,8 @@
 
 ## 1. THÔNG TIN CHUNG VỀ ĐỀ TÀI
 
-* **Tên đề tài tiếng Việt:** Nghiên cứu và phát triển hệ thống phát hiện té ngã bảo vệ quyền riêng tư cho người cao tuổi dựa trên thông tin trạng thái kênh WiFi (WiFi CSI) và mô hình học máy tại biên.
-* **Tên đề tài tiếng Anh:** Privacy-Preserving Fall Detection System for the Elderly Using WiFi Channel State Information (CSI) and Edge Machine Learning.
+* **Tên đề tài tiếng Việt:** Nghiên cứu và phát triển hệ thống phát hiện té ngã ở người cao tuổi sử dụng WiFi CSI và học máy.
+* **Tên đề tài tiếng Anh:** Research and development of fall detection systems in the elderly using WiFi CSI and machine learning.
 * **Lĩnh vực nghiên cứu:** Xử lý tín hiệu số, Trí tuệ nhân tạo (AI/TinyML), Mạng cảm biến không dây & IoT.
 * **Đối tượng thụ hưởng:** Người cao tuổi sống độc thân, trung tâm dưỡng lão, bệnh viện điều trị và gia đình có người lớn tuổi.
 
